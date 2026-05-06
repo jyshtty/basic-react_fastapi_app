@@ -1,4 +1,4 @@
-# Explain Like I'm 5 — How This App Works
+# How This App Works
 
 ---
 
