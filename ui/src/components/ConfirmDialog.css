@@ -1,0 +1,23 @@
+.confirm-dialog {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 28px 24px 20px;
+  width: 100%;
+  max-width: 360px;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.5);
+  animation: modal-in 0.15s ease;
+}
+
+.confirm-message {
+  margin: 0 0 20px;
+  font-size: 14px;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.confirm-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
